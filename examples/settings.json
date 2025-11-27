@@ -1,0 +1,48 @@
+{
+    "clients": [
+        {
+            "comment": "",
+            "created_at": 1764162713000,
+            "email": "n26ntce1",
+            "enable": true,
+            "expiryTime": 0,
+            "flow": "xtls-rprx-vision",
+            "id": "5fb3cb98-99cb-41fe-b7aa-b75d794cce33",
+            "limitIp": 0,
+            "reset": 0,
+            "subId": "402b3ubo2wfeb7gc",
+            "tgId": 0,
+            "totalGB": 0,
+            "updated_at": 1764162796000
+        },
+        {
+            "comment": "",
+            "created_at": 1764184934000,
+            "email": "p5ep8hor",
+            "enable": true,
+            "expiryTime": 0,
+            "flow": "xtls-rprx-vision",
+            "id": "5adee025-2824-4c31-b554-c82f2328d1ac",
+            "limitIp": 0,
+            "reset": 0,
+            "subId": "bu3fqir7878ptozr",
+            "tgId": "",
+            "totalGB": 0,
+            "updated_at": 1764184934000
+        },
+        {
+            "created_at": 1764184993000,
+            "email": "new",
+            "enable": true,
+            "expire_time": 0,
+            "flow": "xtls-rprx-vision",
+            "id": "5adee025-2824-4c31-b554-c82f4528d1ac",
+            "limit_ip": 0,
+            "sub_id": "bt35ye9j4z7wwcs6",
+            "total_gb": 0,
+            "updated_at": 1764184993000
+        }
+    ],
+    "decryption": "none",
+    "encryption": "none"
+}
